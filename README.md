@@ -1,4 +1,4 @@
-# NER# Proyecto de Reconocimiento de Entidades Nombradas (NER)
+#Proyecto de Reconocimiento de Entidades Nombradas (NER)
 
 Este proyecto está diseñado para procesar y entrenar modelos de Reconocimiento de Entidades Nombradas (NER) utilizando anotaciones en formato JSON. A continuación, se describe la estructura del proyecto y el propósito de cada archivo y carpeta.
 
